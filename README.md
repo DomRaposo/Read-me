@@ -1,5 +1,5 @@
 ### Olá eu sou Felipe Gonçalves 😁
-[![Likedin](https://www.linkedin.com/in/felipe-gon%C3%A7alves-377507318?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtenTgeJEQ1K7pIdlrfL9xg%3D%3D)
+![Likedin](https://www.linkedin.com/in/felipe-gon%C3%A7alves-377507318?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtenTgeJEQ1K7pIdlrfL9xg%3D%3D)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-GR98&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-GR98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
