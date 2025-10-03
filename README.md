@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=domraposo&label=Profile%20views&color=0e75b6&style=flat" alt="DomRposo" /> </p>
+
 ### Olá, me chamo **Felipe Oliveira** 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=DomRaposo&show_icons=true&theme=dracula)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomRaposo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
